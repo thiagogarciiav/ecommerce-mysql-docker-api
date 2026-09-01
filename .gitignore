@@ -1,0 +1,55 @@
+# Arquivos de ambiente (credenciais)
+.env
+.env.local
+.env.*.local
+
+# Arquivos de configuração do Docker com dados sensíveis
+docker-compose.override.yml
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+pip-wheel-metadata/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+
+# Editores/IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Banco de dados (dump local)
+*.sql
+*.dump
+
+# Dados do volume (se estiverem no projeto)
+mysql_data/
+
+# Arquivos específicos do seu projeto (se houver)
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de configuração local (ex: settings_locais.py)
+*_local.py
+*.local
