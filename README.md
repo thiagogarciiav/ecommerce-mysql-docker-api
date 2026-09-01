@@ -1,7 +1,20 @@
 <h1>
   Projeto MySQL + Docker
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40" align="center" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    alt="MySQL"
+    title="MySQL"
+    width="40px"
+    style="padding-right:10px;" 
+    align="center" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+    align="center"
+    alt="Python"
+    title="Python"
+    width="40px"
+    style="padding-right:10px;"
+    align="center"/>
 </h1>    
 
 Projeto exemplo com Docker, MySQL e Flask, demonstrando boas práticas de desenvolvimento com banco de dados relacional.
